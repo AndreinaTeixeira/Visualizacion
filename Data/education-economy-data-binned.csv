@@ -1,0 +1,192 @@
+Country,Literacy_Rate,Physician_Density,GDP_Current_USD,GDP_Growth_%_Annual,GDP_per_Capita_Current_USD,GDP_per_Capita_Category,Unemployment_Rate_%,Continent,GDP_Current_USD_Category,Literacy_Rate_Category
+Afghanistan,43.0,0.28,17233051620.0,2.710886791,415.7074171,Very Low,13.991,Asia,GDP_bin_4,Literacy_bin_1
+Albania,98.1,1.2,23547179830.0,3.936625257,8575.171134,Mid,10.108,Europe,GDP_bin_4,Literacy_bin_7
+Algeria,81.4,1.72,247626000000.0,4.1,5364.02795,Low,11.701,Africa,GDP_bin_8,Literacy_bin_3
+Andorra,100.0,3.33,3785067332.0,2.58355481,46812.44845,High,3.7,Europe,GDP_bin_2,Literacy_bin_10
+Angola,71.1,0.21,84824654482.0,1.00128936,2308.159767,Low,14.537,Africa,GDP_bin_7,Literacy_bin_2
+Antigua and Barbuda,99.0,2.76,2033085185.0,3.862012187,21787.10173,High,7.7,North America,GDP_bin_1,Literacy_bin_8
+Argentina,99.0,3.96,646075000000.0,-1.611001621,14187.48273,Mid,6.139,South America,GDP_bin_9,Literacy_bin_8
+Armenia,99.8,4.4,24085749592.0,8.3,8053.010663,Mid,13.245,Asia,GDP_bin_5,Literacy_bin_10
+Australia,99.0,3.68,1728060000000.0,3.4419922,64820.91179,Very High,3.668,Oceania,GDP_bin_10,Literacy_bin_8
+Austria,98.0,5.17,511685000000.0,-0.954962367,56033.57379,Very High,5.264,Europe,GDP_bin_9,Literacy_bin_7
+Azerbaijan,99.8,3.45,72356176471.0,1.123974327,7125.908584,Mid,5.636,Asia,GDP_bin_6,Literacy_bin_10
+The Bahamas,95.6,1.94,14338500000.0,2.639055981,35896.50511,High,8.643,North America,GDP_bin_3,Literacy_bin_5
+Bahrain,95.7,0.93,46079867021.0,2.980792767,29218.86056,High,1.154,Asia,GDP_bin_6,Literacy_bin_6
+Bangladesh,75.9,0.58,437415000000.0,5.77511237,2551.017727,Low,4.454,Asia,GDP_bin_9,Literacy_bin_2
+Barbados,99.6,2.48,6720733200.0,4.09382011,23804.02499,High,7.878,North America,GDP_bin_2,Literacy_bin_9
+Belarus,100.0,5.19,71857382746.0,3.886242145,7829.053137,Mid,3.461,Europe,GDP_bin_6,Literacy_bin_10
+Belgium,99.0,3.07,644783000000.0,1.251700632,54700.90932,Very High,5.528,Europe,GDP_bin_9,Literacy_bin_8
+Belize,82.1,1.12,3066850000.0,1.149016821,7459.998151,Mid,8.267,North America,GDP_bin_2,Literacy_bin_3
+Benin,42.4,0.08,19676049076.0,6.352821609,1394.373302,Very Low,1.657,Africa,GDP_bin_4,Literacy_bin_1
+Bhutan,68.4,0.42,2328700464.923077,4.54621741976923,3115.1196784615386,Low,3.126,Asia,GDP_bin_2,Literacy_bin_2
+Bolivia,92.5,1.59,45135398009.0,3.081965241,3686.279965,Low,3.024,South America,GDP_bin_6,Literacy_bin_5
+Bosnia and Herzegovina,98.5,2.16,27514782476.0,2.211124472,8638.666202,Mid,10.668,Europe,GDP_bin_5,Literacy_bin_7
+Botswana,88.5,0.37,19396084498.0,2.73379817,7820.232404,Mid,23.381,Africa,GDP_bin_4,Literacy_bin_4
+Brazil,93.2,2.15,2173670000000.0,2.908480487,10294.86668,Mid,7.947,South America,GDP_bin_10,Literacy_bin_5
+Brunei,97.2,1.61,15128292981.0,1.407068323,32962.90651,High,5.183,Asia,GDP_bin_3,Literacy_bin_6
+Bulgaria,98.0,4.03,102408000000.0,1.886814839,15885.53913,Mid,4.319,Europe,GDP_bin_7,Literacy_bin_7
+Burkina Faso,41.2,0.08,20324617845.0,2.960181474,882.6898101,Very Low,5.348,Africa,GDP_bin_4,Literacy_bin_1
+Burundi,68.4,0.1,2642161669.0,2.700000597,193.0071456,Very Low,1.9,Africa,GDP_bin_2,Literacy_bin_2
+Ivory Coast,89.9,0.23,78875489245.0,6.2,2530.846593,Low,2.27,Africa,GDP_bin_6,Literacy_bin_4
+Cape Verde,87.6,0.77,2533819406.0,5.475435916,4850.984158,Low,11.971,Africa,GDP_bin_2,Literacy_bin_4
+Cambodia,83.9,0.17,42335646896.0,4.960066589,2429.748535,Low,0.225,Asia,GDP_bin_5,Literacy_bin_3
+Cameroon,77.1,0.09,49279410983.0,3.248344978,1736.860911,Very Low,3.613,Africa,GDP_bin_6,Literacy_bin_3
+Canada,99.0,2.61,2142470000000.0,1.248927304,53431.18571,Very High,5.415,North America,GDP_bin_10,Literacy_bin_8
+Central African Republic,37.4,0.06,2555492085.0,0.870251451,495.9788972,Very Low,5.877,Africa,GDP_bin_2,Literacy_bin_1
+Chad,26.8,0.04,13149325362.0,4.12231962,680.6398779,Very Low,1.074,Africa,GDP_bin_3,Literacy_bin_1
+Chile,97.0,2.59,335533000000.0,0.218780667,17067.81362,Mid,9.013,South America,GDP_bin_8,Literacy_bin_6
+China,97.2,1.98,17794800000000.0,5.249557864,12614.06174,Mid,4.67,Asia,GDP_bin_10,Literacy_bin_6
+Colombia,94.6,2.18,363494000000.0,0.610409566,6947.359287,Low,9.594,South America,GDP_bin_8,Literacy_bin_5
+Comoros,58.8,0.27,1352380971.0,2.995674572,1590.312377,Very Low,3.776,Africa,GDP_bin_1,Literacy_bin_1
+Republic of the Congo,80.3,0.12,15321055823.0,1.906864263,2477.978455,Low,19.898,Africa,GDP_bin_3,Literacy_bin_3
+Costa Rica,97.9,2.89,86497941439.0,5.111921832,16942.02681,Mid,8.325,North America,GDP_bin_7,Literacy_bin_7
+Croatia,99.3,3.0,84393795502.0,3.302544881,21865.45628,High,6.086,Europe,GDP_bin_7,Literacy_bin_9
+Cuba,99.8,8.42,85971083683.54546,-1.928992112,7638.245972181819,Mid,1.719,North America,GDP_bin_7,Literacy_bin_10
+Cyprus,99.1,1.95,33886930712.0,2.611900909,36551.41797,High,6.098,Asia,GDP_bin_5,Literacy_bin_9
+Czech Republic,99.8,4.12,343208000000.0,-0.085330276,31591.17707,High,2.579,Europe,GDP_bin_8,Literacy_bin_10
+Democratic Republic of the Congo,77.0,0.07,66383287003.0,8.560862509,627.5021817,Very Low,4.484,Africa,GDP_bin_6,Literacy_bin_3
+Denmark,99.0,4.01,407092000000.0,2.495184331,68453.87693,Very High,5.094,Europe,GDP_bin_9,Literacy_bin_8
+Djibouti,70.0,0.22,4098530514.0,6.676649644,3554.839189,Low,26.154,Africa,GDP_bin_2,Literacy_bin_2
+Dominica,94.0,1.08,653992592.6,4.712238185,9832.996431,Mid,9.4,North America,GDP_bin_1,Literacy_bin_5
+Dominican Republic,93.8,1.56,121444000000.0,2.360615687,10717.62767,Mid,5.555,North America,GDP_bin_7,Literacy_bin_5
+Ecuador,94.0,2.04,118845000000.0,2.355217907,6609.804082,Low,3.51,South America,GDP_bin_7,Literacy_bin_5
+Egypt,73.0,0.45,396002000000.0,3.758700552,3457.456916,Low,7.334,Africa,GDP_bin_9,Literacy_bin_2
+El Salvador,89.1,1.57,34015620000.0,3.510977066,5391.069262,Low,2.992,North America,GDP_bin_5,Literacy_bin_4
+Equatorial Guinea,95.3,0.4,12337550584.0,-5.089308721,6677.793435,Low,8.367,Africa,GDP_bin_3,Literacy_bin_5
+Eritrea,76.6,0.06,1827258536.5,5.4369952249999995,614.1905858499999,Very Low,5.586,Africa,GDP_bin_1,Literacy_bin_2
+Estonia,99.8,4.48,41291245222.0,-3.023035841,30133.30445,High,6.378,Europe,GDP_bin_5,Literacy_bin_10
+Eswatini,88.4,0.17,4442875788.0,5.014904713,3610.608797,Low,35.086,Africa,GDP_bin_2,Literacy_bin_4
+Ethiopia,51.8,0.08,163698000000.0,6.498134642,1272.016282,Very Low,3.402,Africa,GDP_bin_7,Literacy_bin_1
+Fiji,99.1,0.84,5442046565.0,7.524290882,5888.736686,Low,4.322,Oceania,GDP_bin_2,Literacy_bin_9
+Finland,99.0,3.81,295532000000.0,-1.163962815,52925.68976,Very High,7.151,Europe,GDP_bin_8,Literacy_bin_8
+France,99.0,3.27,3051830000000.0,0.936487503,44690.93454,High,7.335,Europe,GDP_bin_10,Literacy_bin_8
+Gabon,84.7,0.68,19388402542.0,2.445880831,7802.836596,Mid,20.278,Africa,GDP_bin_4,Literacy_bin_3
+Georgia,99.6,7.12,30777833585.0,7.832201215,8283.669602,Mid,11.537,Asia,GDP_bin_5,Literacy_bin_9
+Germany,99.0,4.25,4525700000000.0,-0.26643841,54343.22651,Very High,3.068,Europe,GDP_bin_10,Literacy_bin_8
+Ghana,79.0,0.14,76370396722.0,2.944785831,2260.287413,Low,3.063,Africa,GDP_bin_6,Literacy_bin_3
+Greece,97.9,5.48,243498000000.0,2.332123883,23400.72788,High,11.066,Europe,GDP_bin_8,Literacy_bin_7
+Grenada,96.0,1.41,1316733333.0,3.566128618,11246.34512,Mid,13.2,North America,GDP_bin_1,Literacy_bin_6
+Guatemala,83.3,0.35,104450000000.0,3.526792142,5762.821746,Low,2.344,North America,GDP_bin_7,Literacy_bin_3
+Guinea,30.4,0.08,22199409741.0,6.744934446,1541.040509,Very Low,5.244,Africa,GDP_bin_4,Literacy_bin_1
+Guinea-Bissau,47.0,0.13,2048348108.0,5.199268297,951.2427483,Very Low,2.65,Africa,GDP_bin_1,Literacy_bin_1
+Guyana,88.5,0.8,17159509565.0,33.80261709,20765.35036,High,12.025,South America,GDP_bin_4,Literacy_bin_4
+Haiti,61.7,0.23,19850829758.0,-1.863884203,1705.779055,Very Low,14.556,North America,GDP_bin_4,Literacy_bin_2
+Honduras,89.0,0.31,34400509852.0,3.582603626,3231.657245,Low,6.07,North America,GDP_bin_5,Literacy_bin_4
+Hungary,99.1,3.41,212389000000.0,-0.907685956,22141.86698,High,4.107,Europe,GDP_bin_8,Literacy_bin_9
+Iceland,99.0,4.08,31325116556.0,5.03717944,79636.95486,Very High,3.518,Europe,GDP_bin_5,Literacy_bin_8
+India,77.7,0.86,3567550000000.0,8.152936311,2480.792087,Low,4.172,Asia,GDP_bin_10,Literacy_bin_3
+Indonesia,96.0,0.43,1371170000000.0,5.048105771,4876.314327,Low,3.308,Asia,GDP_bin_10,Literacy_bin_6
+Iran,89.5,1.58,404626000000.0,5.044890511,4465.63767,Low,9.041,Asia,GDP_bin_9,Literacy_bin_4
+Iraq,86.5,0.71,250843000000.0,-2.93555774,5565.126446,Low,15.447,Asia,GDP_bin_8,Literacy_bin_3
+Republic of Ireland,99.0,3.31,551395000000.0,-5.530007361,103887.8004,Very High,4.288,Europe,GDP_bin_9,Literacy_bin_8
+Israel,97.1,4.62,513611000000.0,2.42300691,52642.42675,Very High,3.596,Asia,GDP_bin_9,Literacy_bin_6
+Italy,99.0,3.98,2300940000000.0,0.697632994,39003.3161,High,7.627,Europe,GDP_bin_10,Literacy_bin_8
+Jamaica,88.7,1.31,19423355409.0,2.200061472,6839.725039,Low,4.4,North America,GDP_bin_4,Literacy_bin_4
+Japan,99.0,2.41,4204490000000.0,1.679019523,33766.52683,High,2.6,Asia,GDP_bin_10,Literacy_bin_8
+Jordan,98.0,2.32,50967475352.0,2.678271538,4455.505405,Low,17.969,Asia,GDP_bin_6,Literacy_bin_7
+Kazakhstan,99.8,3.25,262642000000.0,5.1,12918.86613,Mid,4.821,Asia,GDP_bin_8,Literacy_bin_10
+Kenya,82.6,0.16,108039000000.0,5.555873013,1952.304579,Very Low,5.567,Africa,GDP_bin_7,Literacy_bin_3
+Kiribati,91.0,0.2,279208903.3,4.124590543,2106.760004,Low,30.6,Oceania,GDP_bin_1,Literacy_bin_4
+Kuwait,96.6,2.58,163705000000.0,-3.640425903,33729.79855,High,2.127,Asia,GDP_bin_8,Literacy_bin_6
+Kyrgyzstan,99.6,1.88,13987627909.0,6.151391837,1970.15781,Very Low,3.991,Asia,GDP_bin_3,Literacy_bin_9
+Laos,87.5,0.37,15843155731.0,3.745681402,2066.949798,Low,1.188,Asia,GDP_bin_4,Literacy_bin_4
+Latvia,99.9,3.19,42247850065.0,1.70679525,22502.84299,High,6.465,Europe,GDP_bin_5,Literacy_bin_10
+Lebanon,95.6,2.1,42600880514.76923,-1.321796055923077,7335.419342923076,Mid,11.543,Asia,GDP_bin_5,Literacy_bin_5
+Lesotho,80.1,0.07,2117962451.0,1.826625259,916.2829793,Very Low,16.457,Africa,GDP_bin_2,Literacy_bin_3
+Liberia,48.3,0.04,4240000000.0,4.683756888,771.8871421,Very Low,2.933,Africa,GDP_bin_2,Literacy_bin_1
+Libya,91.0,2.09,45096462972.0,10.15581818,6172.812469,Low,18.753,Africa,GDP_bin_6,Literacy_bin_4
+Liechtenstein,100.0,3.89,6378026882.384615,3.0,168647.5684846154,Very High,2.4,Europe,GDP_bin_2,Literacy_bin_10
+Lithuania,99.8,6.35,79789877416.0,0.342262552,27786.00578,High,6.841,Europe,GDP_bin_6,Literacy_bin_10
+Luxembourg,100.0,3.01,85755006124.0,-1.095723616,128678.1899,Very High,5.184,Europe,GDP_bin_7,Literacy_bin_10
+Madagascar,74.8,0.18,15790113247.0,3.8,506.1593687,Very Low,3.069,Africa,GDP_bin_3,Literacy_bin_2
+Malawi,65.8,0.04,12712150082.0,1.892457988,602.3436198,Very Low,5.033,Africa,GDP_bin_3,Literacy_bin_2
+Malaysia,95.9,1.51,399705000000.0,3.555487154,11379.0861,Mid,3.869,Asia,GDP_bin_9,Literacy_bin_6
+Maldives,98.6,4.56,6590894302.0,4.72639189,12530.36024,Mid,4.241,Asia,GDP_bin_2,Literacy_bin_7
+Mali,35.5,0.13,20661794596.0,4.656775991,869.2702343,Very Low,2.956,Africa,GDP_bin_4,Literacy_bin_1
+Malta,94.5,2.86,22328640242.0,7.498512459,40395.76921,High,3.11,Europe,GDP_bin_4,Literacy_bin_5
+Marshall Islands,98.3,0.42,259300000.0,-3.934871099,6678.342391,Low,36.0,Oceania,GDP_bin_1,Literacy_bin_7
+Mauritania,52.1,0.19,10651709411.0,6.507187199,2120.823204,Low,10.446,Africa,GDP_bin_3,Literacy_bin_1
+Mauritius,91.3,2.53,14644524819.0,6.958287403,11613.04416,Mid,5.571,Africa,GDP_bin_3,Literacy_bin_4
+Mexico,95.2,2.38,1789110000000.0,3.199981166,13790.02434,Mid,2.765,North America,GDP_bin_10,Literacy_bin_5
+Federated States of Micronesia,89.0,0.18,460000000.0,0.784313725,4084.169404,Low,16.2,Oceania,GDP_bin_1,Literacy_bin_4
+Moldova,99.4,3.21,16539436547.0,0.78324271,6729.412868,Low,1.555,Europe,GDP_bin_4,Literacy_bin_9
+Monaco,100.0,6.56,9995350547.0,5.043382592,256580.5151,Very High,2.0,Europe,GDP_bin_3,Literacy_bin_10
+Mongolia,99.2,2.86,20325121394.0,7.422112762,5838.631081,Low,5.503,Asia,GDP_bin_4,Literacy_bin_9
+Montenegro,98.7,2.76,7530593375.0,6.337697542,12221.47755,Mid,14.621,Europe,GDP_bin_2,Literacy_bin_7
+Morocco,73.8,0.73,144417000000.0,3.403341301,3771.446289,Low,9.044,Africa,GDP_bin_7,Literacy_bin_2
+Mozambique,60.7,0.08,20954220984.0,5.436859122,622.9856193,Very Low,3.519,Africa,GDP_bin_4,Literacy_bin_1
+Myanmar,89.1,0.68,66757619000.0,0.958446625,1233.196662,Very Low,3.032,Asia,GDP_bin_6,Literacy_bin_4
+Namibia,92.6,0.42,12351025067.0,4.159985755,4168.285211,Low,19.365,Africa,GDP_bin_3,Literacy_bin_5
+Nauru,96.5,1.0,154170289.3,0.590699676,12982.76121,Mid,23.0,Oceania,GDP_bin_1,Literacy_bin_6
+Nepal,71.0,0.75,40908073367.0,1.952544633,1377.626036,Very Low,10.628,Asia,GDP_bin_5,Literacy_bin_2
+Netherlands,99.0,3.61,1154360000000.0,0.074560722,64572.00596,Very High,3.537,Europe,GDP_bin_10,Literacy_bin_8
+New Zealand,99.0,3.59,252176000000.0,0.733302172,48280.81142,High,3.729,Oceania,GDP_bin_8,Literacy_bin_8
+Nicaragua,83.6,0.98,17829218219.0,4.569223171,2612.870662,Low,4.716,North America,GDP_bin_4,Literacy_bin_3
+Niger,35.0,0.04,16819170421.0,2.5,642.9379179,Very Low,0.425,Africa,GDP_bin_4,Literacy_bin_1
+Nigeria,62.0,0.38,363846000000.0,2.860214991,1596.636961,Very Low,3.074,Africa,GDP_bin_8,Literacy_bin_2
+North Korea,100.0,3.67,15000000000.0,-4.5,583.0,Very Low,2.7,Asia,GDP_bin_3,Literacy_bin_10
+North Macedonia,98.9,2.65,15763621848.0,2.072749779,8624.293609,Mid,13.174,Europe,GDP_bin_3,Literacy_bin_7
+Norway,99.0,2.92,485311000000.0,0.479647246,87925.09442,Very High,3.572,Europe,GDP_bin_9,Literacy_bin_8
+Oman,95.7,2.0,108811000000.0,1.310440113,21549.83687,High,3.176,Asia,GDP_bin_7,Literacy_bin_6
+Pakistan,58.0,0.98,337912000000.0,-0.039692523,1365.277432,Very Low,5.408,Asia,GDP_bin_8,Literacy_bin_1
+Palau,99.4,1.18,281849062.5,1.877069798,15899.42249,Mid,1.7,Oceania,GDP_bin_1,Literacy_bin_9
+Palestinian National Authority,97.4,1.47,17420800000.0,-5.410937,3372.349744,Low,24.4,Asia,GDP_bin_4,Literacy_bin_6
+Panama,95.4,1.57,83318176900.0,7.399301556,18686.4051,Mid,6.544,North America,GDP_bin_7,Literacy_bin_5
+Papua New Guinea,63.4,0.07,30729242919.0,3.035704755,2957.682625,Low,2.661,Oceania,GDP_bin_5,Literacy_bin_2
+Paraguay,94.5,1.35,42956263544.0,4.714124079,6276.351139,Low,5.794,South America,GDP_bin_6,Literacy_bin_5
+Peru,94.5,1.27,267603000000.0,-0.550182306,7906.585029,Mid,4.899,South America,GDP_bin_8,Literacy_bin_5
+Philippines,96.3,0.6,437146000000.0,5.545851171,3804.87258,Low,2.222,Asia,GDP_bin_9,Literacy_bin_6
+Poland,99.8,2.38,809201000000.0,0.138832755,22056.66617,High,2.743,Europe,GDP_bin_9,Literacy_bin_10
+Portugal,95.7,5.12,289114000000.0,2.526281108,27331.20949,High,6.509,Europe,GDP_bin_8,Literacy_bin_6
+Qatar,97.8,2.49,213003000000.0,1.187159912,80195.87465,Very High,0.13,Asia,GDP_bin_8,Literacy_bin_7
+Romania,98.9,2.98,350776000000.0,2.404271779,18404.27309,Mid,5.589,Europe,GDP_bin_8,Literacy_bin_7
+Russia,99.7,4.01,2021420000000.0,3.6,13817.0459,Mid,3.076,Europe,GDP_bin_10,Literacy_bin_9
+Rwanda,73.2,0.13,14097768472.0,8.241287695,1010.268929,Very Low,12.352,Africa,GDP_bin_3,Literacy_bin_2
+Saint Kitts and Nevis,97.8,2.52,1055499778.0,2.284948091,22573.67248,High,5.3,North America,GDP_bin_1,Literacy_bin_7
+Saint Lucia,90.1,0.64,2430148148.0,2.21007266,13554.66519,Mid,11.092,North America,GDP_bin_2,Literacy_bin_4
+Saint Vincent and the Grenadines,96.0,0.66,1065962963.0,6.016109145,10520.44415,Mid,18.574,North America,GDP_bin_1,Literacy_bin_6
+Samoa,99.0,0.34,938189443.8,8.584091218,4330.178405,Low,4.977,Oceania,GDP_bin_1,Literacy_bin_8
+San Marino,99.9,6.11,1659386536.0769231,0.0986732833076923,49407.31049692308,High,5.6,Europe,GDP_bin_1,Literacy_bin_10
+Saudi Arabia,97.6,2.61,1067580000000.0,-0.754914811,32093.9623,High,4.008,Asia,GDP_bin_10,Literacy_bin_7
+Senegal,52.1,0.07,30848333084.0,4.584061405,1706.44218,Very Low,2.8,Africa,GDP_bin_5,Literacy_bin_1
+Serbia,98.0,3.11,81342660752.0,3.847471128,12281.50585,Mid,8.268,Europe,GDP_bin_7,Literacy_bin_7
+Seychelles,95.9,0.95,2141450171.0,3.161714355,17879.23965,Mid,3.0,Africa,GDP_bin_2,Literacy_bin_6
+Sierra Leone,43.2,0.03,6411869546.0,5.710021898,757.858336,Very Low,3.153,Africa,GDP_bin_2,Literacy_bin_1
+Singapore,97.5,2.29,501428000000.0,1.075031751,84734.25592,Very High,3.444,Asia,GDP_bin_9,Literacy_bin_6
+Slovakia,99.6,3.42,132908000000.0,1.378337272,24491.37719,High,5.84,Europe,GDP_bin_7,Literacy_bin_9
+Slovenia,99.7,3.09,69148468417.0,2.112591843,32610.11092,High,3.652,Europe,GDP_bin_6,Literacy_bin_9
+Solomon Islands,76.6,0.19,1633319401.0,3.079769815,2041.636491,Low,1.455,Oceania,GDP_bin_1,Literacy_bin_2
+Somalia,37.8,0.02,10968517090.0,4.216384326,597.4588546,Very Low,18.941,Africa,GDP_bin_3,Literacy_bin_1
+South Africa,87.0,0.91,380699000000.0,0.698485195,6022.542542,Low,32.098,Africa,GDP_bin_8,Literacy_bin_3
+South Korea,97.9,2.36,1712790000000.0,1.356733243,33121.37129,High,2.675,Asia,GDP_bin_10,Literacy_bin_7
+South Sudan,34.5,0.02,14304556022.833334,-6.586501287333333,1338.264387166667,Very Low,12.7,Africa,GDP_bin_3,Literacy_bin_1
+Spain,98.4,3.87,1620090000000.0,2.675663493,33509.0128,High,12.179,Europe,GDP_bin_10,Literacy_bin_7
+Sri Lanka,92.3,1.0,84356863744.0,-2.298010562,3827.964956,Low,5.997,Asia,GDP_bin_7,Literacy_bin_5
+Sudan,60.7,0.26,109266000000.0,-20.11157597,2183.441406,Low,13.593307692307691,Africa,GDP_bin_7,Literacy_bin_1
+Suriname,95.4,1.21,3455146281.0,2.539566754,5494.074094,Low,7.631,South America,GDP_bin_2,Literacy_bin_5
+Sweden,99.0,3.98,584960000000.0,-0.310670185,55516.83648,Very High,7.611,Europe,GDP_bin_9,Literacy_bin_8
+Switzerland,99.0,4.3,884940000000.0,0.716066869,99564.71003,Very High,4.043,Europe,GDP_bin_10,Literacy_bin_8
+Syria,86.4,1.22,27271005172.0,-4.747113545846154,1267.517922653846,Very Low,50.0,Asia,GDP_bin_5,Literacy_bin_3
+Tajikistan,99.8,1.7,12060602009.0,8.299999217,1160.81187,Very Low,11.546,Asia,GDP_bin_3,Literacy_bin_10
+Tanzania,81.8,0.01,79062403821.0,5.069523532,1224.489624,Very Low,2.582,Africa,GDP_bin_6,Literacy_bin_3
+Thailand,94.1,0.81,514969000000.0,1.887257251,7182.025258,Mid,0.733,Asia,GDP_bin_9,Literacy_bin_5
+East Timor,68.1,0.72,2079916900.0,-18.11781338,1502.519638,Very Low,1.521,Asia,GDP_bin_1,Literacy_bin_2
+Togo,66.5,0.08,9171261838.0,6.407922156,985.6975126,Very Low,1.948,Africa,GDP_bin_3,Literacy_bin_2
+Tonga,99.4,0.52,460034440.8923077,1.6971026897692307,4334.288669692308,Low,2.262,Oceania,GDP_bin_1,Literacy_bin_9
+Trinidad and Tobago,99.0,4.17,27372285698.0,1.347675182,20016.1503,High,4.21,North America,GDP_bin_5,Literacy_bin_8
+Tunisia,81.8,1.3,48529595417.0,0.039156567,3977.695166,Low,15.106,Africa,GDP_bin_6,Literacy_bin_3
+Turkmenistan,99.7,2.22,60628857143.0,6.300157585,8232.65226,Mid,4.099,Asia,GDP_bin_6,Literacy_bin_9
+Tuvalu,99.0,0.92,62280311.59,3.852809195,6344.775019,Low,6.0,Oceania,GDP_bin_1,Literacy_bin_8
+Uganda,76.5,0.17,48768955863.0,5.336972955,1002.309139,Very Low,2.787,Africa,GDP_bin_6,Literacy_bin_2
+Ukraine,99.8,2.99,178757000000.0,5.324335374,5069.703125,Low,8.684333333333333,Europe,GDP_bin_8,Literacy_bin_10
+United Arab Emirates,97.0,2.53,514130000000.0,3.618706535,49040.69475,High,2.151,Asia,GDP_bin_9,Literacy_bin_6
+United Kingdom,99.0,2.81,3380850000000.0,0.339966158,49463.85546,High,3.984,Europe,GDP_bin_10,Literacy_bin_8
+United States,99.0,2.61,27720700000000.0,2.887556009,82769.41221,Very High,3.638,North America,GDP_bin_10,Literacy_bin_8
+Uruguay,98.6,5.05,77240830877.0,0.367475176,22797.81117,High,8.355,South America,GDP_bin_6,Literacy_bin_7
+Uzbekistan,100.0,2.37,101592000000.0,6.291416351,2849.514611,Low,4.46,Asia,GDP_bin_7,Literacy_bin_10
+Vanuatu,89.0,0.17,1126313359.0,2.212941771,3515.236336,Low,5.082,Oceania,GDP_bin_1,Literacy_bin_4
+Venezuela,97.1,1.92,388864800000.0,1.1524597287999998,13147.680841999998,Mid,8.0,South America,GDP_bin_9,Literacy_bin_6
+Vietnam,95.4,0.82,429717000000.0,5.046430736,4282.088517,Low,1.645,Asia,GDP_bin_9,Literacy_bin_5
+Yemen,54.1,0.31,33876557984.0,-4.408198770555555,477.4090287,Very Low,17.091,Asia,GDP_bin_5,Literacy_bin_1
+Zambia,87.4,1.19,27577956471.0,5.367942855,1330.727806,Very Low,5.905,Africa,GDP_bin_5,Literacy_bin_4
+Zimbabwe,89.0,0.21,35231367886.0,5.336730495,2156.034004,Low,8.759,Africa,GDP_bin_5,Literacy_bin_4
